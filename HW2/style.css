@@ -1,16 +1,33 @@
-img {
-    border-radius: 30px;
+body {
+    background-color: beige;
+}
 
+h2 {
+    color: rgb(0, 72, 0);
+}
+
+a {
+    text-decoration: none;
 }
 
 .az-bold {
     font-weight: bold;
-
+    color: blue;
 }
 
 .az-ital {
     font-style: italic;
+    color: deeppink;
+}
 
+img {
+    border-radius: 10%;
+}
+
+ol>li {
+    color: green;
+    list-style: lower-alpha;
+    text-transform: uppercase;
 }
 
    
